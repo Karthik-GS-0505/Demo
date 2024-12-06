@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>PracticeAutomation</name>
+=======
+	<name>DemoProject</name>
+>>>>>>> branch 'master' of https://github.com/Karthik-GS-0505/Demo.git
 	<comment></comment>
 	<projects>
 	</projects>
